@@ -1,0 +1,14 @@
+# Terraform configuration for AWS S3 static website hosting
+terraform {
+  required_providers {
+    aws = {
+      source  = "hashicorp/aws"
+      version = "6.43.0"
+    }
+  }
+}
+
+provider "aws" {
+  # Configuration options
+  region = "us-east-1"
+}
