@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates how to host a static HTML/CSS portfolio website on AWS S3 using Terraform. It automates the provisioning of an S3 bucket, configures it for static website hosting, sets the necessary public access permissions, and uploads the website assets. This project was inspired by the "Simple DevOps Project to Practice Terraform with AWS" tutorial by Cloud Champ.
+This project demonstrates how to host a static HTML/CSS portfolio website on AWS S3 using Terraform. It automates the provisioning of an S3 bucket, configures it for static website hosting, sets the necessary public access permissions, and uploads the website assets.
 
 ## Tech Stack
 
